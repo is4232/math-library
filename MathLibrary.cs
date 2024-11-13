@@ -1,9 +1,8 @@
 using System;
 
-public class Program()
+namespace MathLibrary;
+
+public class MymathLibrary()
 {
-	static void Main(string[] args)
-	{
-		Console.WriteLine("Hello");
-	}
+	
 }
